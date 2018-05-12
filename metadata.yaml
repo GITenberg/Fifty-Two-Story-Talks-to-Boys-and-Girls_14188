@@ -1,0 +1,26 @@
+_repo: Fifty-Two-Story-Talks-to-Boys-and-Girls_14188
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 14188-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chidley, Howard J. (Howard James)
+    birthdate: 1878
+    deathdate: 1966
+    gutenberg_agent_id: '5402'
+    url: http://www.gutenberg.org/2009/agents/5402
+description: ''
+gutenberg_issued: '2004-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14188'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s sermons'
+- !lcc 'BV'
+title: Fifty-Two Story Talks to Boys and Girls
+url: http://www.gutenberg.org/ebooks/14188
